@@ -60,3 +60,14 @@ find file
 ```powershell
 Get-ChildItem C:\ -name -recurse flag.txt
 ```
+---
+all of the resources that are shared on the local computer
+```Powershell
+net share
+```
+---
+to query and manage services
+```Powershell
+Get-Service | ? {$_.Status -eq "Running"} | select -First 2 |fl
+```
+---

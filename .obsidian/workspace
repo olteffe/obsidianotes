@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wwndows/windows HTB.md",
+            "file": "linux/linux from HTB.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wwndows/windows HTB.md",
+                "file": "linux/linux from HTB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +122,11 @@
   },
   "active": "7eacb953ddca8c43",
   "lastOpenFiles": [
-    "Wwndows/windows HTB.md",
-    "linux/linux.md",
     "linux/linux from HTB.md",
-    "linux/HTB soft.md",
+    "linux/linux.md",
     "linux/nmap.md",
+    "Windows/windows HTB.md",
+    "linux/HTB soft.md",
     "linux/manjaro/settings.md",
     "progr/rst and md.md",
     "progr/prog.md",

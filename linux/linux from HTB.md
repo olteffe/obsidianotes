@@ -237,6 +237,6 @@ smbclient \\\\zimmerman\\public mypasswd
 ---
 **gobuster scan**
 ```bash
-sudo gobuster dir -u 10.129.174.247 -w /usr/share/wordlists/dirb/common.txt
+sudo gobuster dir -u 10.129.131.234 -q -w /usr/share/wordlists/dirb/common.txt 
 ```
 ---
